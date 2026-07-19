@@ -1,0 +1,18 @@
+{
+  "URL_CLIENT": "http://santrope-download.srv4.pro/st/cl/client42-3.zip",
+  "URL_FILES": "http://santrope-download.srv4.pro/st/upd/upd-all-n13-3.zip",
+  "URL_LITE_CACHE": "http://santrope-download.srv4.pro/st/gm/lt-cache-2.zip",
+  "URL_FULL_CACHE": "http://santrope-download.srv4.pro/st/gm/lt-cache-2.zip",
+  "URL_VERSIONS": "https://ln.bh-rp.com/s/v13_versions.json",
+  "URL_GAME_SETTINGS": "http://santrope-download.srv4.pro/st/gm/gta_sa.set",
+  "URL_NEWS": "https://raw.githubusercontent.com/DevMonopoli/TRP/refs/heads/main/v1_news.json",
+  "URL_SERVERS": "https://raw.githubusercontent.com/top1standoffa-code/my-launcher-repo/refs/heads/main/v13_svr_info.json",
+  "URL_VK": "https://vk.ru/santrope.trilogy",
+  "URL_NOTIFICATIONS": "https://ln.bh-rp.com/s/v0_notifications.json",
+  "URL_MODPACK": "https://google.com/",
+  "URL_BACKUP": "https://google.com/",
+  "URL_TEST_CLIENT": "http://santrope-download.srv4.pro/st/cl/client42-3.zip",
+  "URL_CONFIG": "https://ln.bh-rp.com/s/v9_config.json",
+  "URL_REFERAL": "https://bh-rp.com/",
+  "URL_LAUNCHER": "http://santrope-download.srv4.pro/st/ln/st-laun444.zip"
+}
