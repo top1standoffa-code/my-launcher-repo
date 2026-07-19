@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Flin RP Nostalgia",
+    "color": "#FF5733",
+    "online": 100,
+    "max_online": 1000,
+    "ip": "141.95.234.18",
+    "port": 1313,
+    "onlinePer30Min": 90,
+    "bonus": "x1",
+    "open_at": 1704067200,
+    "locked": false
+  }
+]
